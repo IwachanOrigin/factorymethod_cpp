@@ -1,8 +1,8 @@
 
 set(main_src
   main.cpp
-  singleton.h
-  singleton.cpp
+  factorymethod.h
+  factorymethod.cpp
 )
 
 add_executable(
