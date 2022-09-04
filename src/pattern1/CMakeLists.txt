@@ -1,4 +1,7 @@
 
+# set the project name
+project(pattern1 CXX)
+
 set(main_src
   main.cpp
   filedataobject.h
