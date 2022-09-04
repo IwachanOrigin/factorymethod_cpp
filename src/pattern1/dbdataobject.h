@@ -1,6 +1,6 @@
 
-#ifndef FILE_DATA_OBJECT_H_
-#define FILE_DATA_OBJECT_H_
+#ifndef DB_DATA_OBJECT_H_
+#define DB_DATA_OBJECT_H_
 
 #include "dataobject.h"
 #include <string>
@@ -8,10 +8,10 @@
 
 namespace design_pattern
 {
-    class FileDataObject : public DataObject
+    class DBDataObject : public DataObject
     {
     public:
-        FileDataObject();
+        DBDataObject();
         std::string getName(const int id);
 
     private:
@@ -19,4 +19,4 @@ namespace design_pattern
     };
 }
 
-#endif // FILE_DATA_OBJECT_H_
+#endif // DB_DATA_OBJECT_H_

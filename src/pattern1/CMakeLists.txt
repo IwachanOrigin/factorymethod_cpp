@@ -3,6 +3,8 @@ set(main_src
   main.cpp
   filedataobject.h
   filedataobject.cpp
+  dbdataobject.h
+  dbdataobject.cpp
   dataobject.h
   dataobject.cpp
 )
