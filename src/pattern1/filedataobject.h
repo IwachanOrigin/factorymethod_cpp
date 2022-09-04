@@ -2,12 +2,13 @@
 #ifndef FACTORY_METHOD_H_
 #define FACTORY_METHOD_H_
 
+#include "dataobject.h"
 #include <string>
 #include <map>
 
 namespace design_pattern
 {
-    class FileDataObject
+    class FileDataObject : public DataObject
     {
     public:
         FileDataObject() = default;
