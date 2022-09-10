@@ -25,3 +25,4 @@ set_property(GLOBAL PROPERTY AUTOGEN_SOURCE_GROUP AutoGenFiles)
 
 add_subdirectory(pattern1)
 add_subdirectory(pattern2)
+add_subdirectory(pattern3)
