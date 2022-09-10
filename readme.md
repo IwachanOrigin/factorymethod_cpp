@@ -2,7 +2,7 @@
 
 ## Overview
 
-    Simple implementation example of singleton pattern using cpp
+    FactoryMethodの使い方
 
 ## 使いどころ
 
