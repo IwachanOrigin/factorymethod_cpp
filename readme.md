@@ -27,5 +27,5 @@
 
 ## Licence
 
-    [MIT](https://github.com/IwachanOrigin/singleton_cpp/blob/master/LICENSE)
+[MIT](https://github.com/IwachanOrigin/singleton_cpp/blob/master/LICENSE)
 
