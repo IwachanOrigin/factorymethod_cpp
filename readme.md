@@ -25,6 +25,10 @@
     powershell.exe cmake -S . -B build  
     powershell.exe cmake --build build 
 
+## 参考
+
+[独習デザインパターンC++](https://www.shoeisha.co.jp/book/detail/9784798117201)
+
 ## Licence
 
 [MIT](https://github.com/IwachanOrigin/singleton_cpp/blob/master/LICENSE)
